@@ -1,2 +1,2 @@
 # lil-blue-feeder
-Feeder for Lil' Blue
+An automatic feeder for my fish, Lil' Blue.
