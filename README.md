@@ -1,4 +1,7 @@
 # lil-blue-feeder
-An automatic feeder for my fish, Lil' Blue.
+An arudino-based automatic feeder for my fish, Lil' Blue.
 
-Video of the prototype: https://www.youtube.com/watch?v=n3YVmmzXk48
+
+
+https://user-images.githubusercontent.com/4752801/141664682-5274c07a-ff38-48cf-a17f-2592fc86e527.mp4
+
